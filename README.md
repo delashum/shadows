@@ -4,7 +4,7 @@ Design shadows visually
 
 ## TODO
 
-- when hover on body you can copy box- [ ]shadow CSS and it hides lights completely
+- when hover on body you can copy box shadow CSS and it hides lights completely
 - NTH support light / dark (don't go with theme, just toggle). Use recessed style icons for this
 - separate state for light / dark mode as they need to be finetuned separately
 - NTH allow setting background colors for box and background. Just do css? Give them a textarea with monospace and label all objects with an ID they can target?
